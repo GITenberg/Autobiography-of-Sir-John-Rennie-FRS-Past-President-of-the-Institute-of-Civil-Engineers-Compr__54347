@@ -1,11 +1,16 @@
 _repo: Autobiography-of-Sir-John-Rennie-FRS-Past-President-of-the-Institute-of-Civil-Engineers-Compr__54347
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54347-h/images/cover.jpg
 creator:
   author:
     agent_name: Rennie, John
     gutenberg_agent_id: '47833'
     url: http://www.gutenberg.org/2009/agents/47833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54347#Autobiography-of-Sir-John-Rennie-FRS-Past-President-of-the-Institute-of-Civil-Engineers-Compr_
 gutenberg_issued: '2017-03-12'
 gutenberg_type: Text
 identifiers:
